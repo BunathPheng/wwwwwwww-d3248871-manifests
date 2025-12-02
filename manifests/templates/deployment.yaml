@@ -20,7 +20,7 @@ spec:
       serviceAccountName: ingress-manager
       containers:
         - name: wwwwwwww-d3248871
-          image: docker.io/phengbunath/wwwwwwww-d3248871:1
+          image: docker.io/phengbunath/wwwwwwww-d3248871:2
           imagePullPolicy: Always
           ports:
             - containerPort: 3000
