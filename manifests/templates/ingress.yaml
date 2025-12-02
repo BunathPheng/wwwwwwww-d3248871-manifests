@@ -18,4 +18,4 @@ spec:
               service:
                 name: wwwwwwww-d3248871               # Links to Service name dynamically
                 port:
-                  number: 8080  # Links to service port dynamically
+                  number: 3000  # Links to service port dynamically
