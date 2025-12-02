@@ -23,4 +23,4 @@ spec:
           image: docker.io/phengbunath/wwwwwwww-d3248871:1
           imagePullPolicy: Always
           ports:
-            - containerPort: 8080
+            - containerPort: 3000
